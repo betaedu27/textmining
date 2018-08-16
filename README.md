@@ -16,6 +16,7 @@ En este repositorio se incluyen los siguientes archivos.
 - Codigo implementado: pan-ap17.r
 - Papper generado: Papper.pdf
 - Presentación hecha en clase: TextMinig.pptx
+- Archivo de instrucciones: intrucciones de ejecucion.txt
 
 
   
