@@ -25,8 +25,8 @@ Los parametros que se pueden modificar son:
 # **************************************************************************
 # Preparacion de parametros, estaticos
 lang <- "es"
-path_training <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/training"		# Your training path
-path_test <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/test"							# Your test path
+path_training <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/training"
+path_test <- "C:/Users/ASUS/Documents/Master Big Data/Text Mining en Social Media/pan-ap17-bigdata/test"
 param.eliminarAcentos <- FALSE
 param.lowcase <- FALSE
 param.punctuations <- TRUE
