@@ -9,14 +9,14 @@ Este trabajo ha sido realizado por:
 
 En este repositorio se incluyen los siguientes archivos.
 - Codigo implementado: pan-ap17.r
-- Papper generado:  
-- Presentación hecha en clase:
+- Papper generado: Papper.pdf
+- Presentación hecha en clase: TextMinig.pptx
 
 
 Para ejecutar el codigo implementado pan-ap17.r:
-	1- Abrir R studio
-	2- Ejecutar todo el código
-	3- Si se quieren modificar parámetros, solo se modificarán en la sección (parámetros) marcada dentro del código.
+	- Abrir R studio
+	- Ejecutar todo el código
+	- Si se quieren modificar parámetros, solo se modificarán en la sección (parámetros) marcada dentro del código.
   
 Los parametros que se pueden modificar son:
   ```{r}
