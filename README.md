@@ -14,9 +14,9 @@ En este repositorio se incluyen los siguientes archivos.
 
 
 Para ejecutar el codigo implementado pan-ap17.r:
-	- Abrir R studio
-	- Ejecutar todo el código
-	- Si se quieren modificar parámetros, solo se modificarán en la sección (parámetros) marcada dentro del código.
+1- Abrir R studio
+2- Ejecutar todo el código
+3- Si se quieren modificar parámetros, solo se modificarán en la sección (parámetros) marcada dentro del código.
   
 Los parametros que se pueden modificar son:
   ```{r}
